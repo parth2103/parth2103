@@ -1,55 +1,79 @@
-# 👋 Hi, I'm Parth Gohil
+<h1 align="center">Hi there 👋, I'm Parth Gohil</h1>
 
-🎓 Graduate Student in Computer Science @ Cal State Fullerton  
-💻 Backend | Cloud | DevOps | Scalable Systems  
-🌱 Currently working on: Infrastructure automation, cloud-native apps, and secure system design  
-📫 [Email](mailto:parth.gohil.work@gmail.com) • [LinkedIn](https://www.linkedin.com/in/parth--gohil/)  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Full-Stack+Software+Engineer;Cloud+%7C+DevOps+%7C+Security-Minded+Builder" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:parth.gohil.work@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/parth--gohil/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I’m a backend-focused software developer passionate about building secure, scalable systems using cloud infrastructure and DevOps principles.  
-From deploying microservices on Kubernetes to automating infrastructure with Terraform, I enjoy turning complex ideas into clean solutions.
+I’m a **full-stack software engineer** with a strong foundation in backend systems, frontend development, and cloud infrastructure.  
+I love building applications that are not only functional and performant — but also scalable and secure.
+
+🧠 Currently exploring:  
+- 🔄 DevOps pipelines & Infrastructure as Code  
+- ⚙️ Full-stack development with React + Node.js  
+- ☁️ AWS, Kubernetes, and Terraform  
+- 🔒 Secure application development practices
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Python` `Java` `JavaScript` `C++` `SQL`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Cloud & DevOps:**  
-`AWS` (EC2, Lambda, S3, RDS, DynamoDB)  
-`Terraform` `Docker` `Kubernetes` `CircleCI` `GitHub Actions`
+**Frontend & Backend:**  
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-**Tools & Frameworks:**  
-`Git` `Jenkins` `Node.js` `React (basic)`
+**DevOps & Cloud:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**Databases:**  
-`PostgreSQL` `MongoDB` `MySQL`
-
-**Concepts:**  
-`CI/CD` `IaC` `REST APIs` `RBAC` `Agile Development`
+**CI/CD & Tools:**  
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ---
 
-## 🧪 Featured Projects
+## 📂 Featured Projects
 
 ### 🔐 **Cloud-Based Chat Server with VoIP & Video**
-- Deployed on Kubernetes with Nginx + PostgreSQL for 100+ users  
-- SSL/TLS encryption with Certbot and CI/CD via GitHub + Jenkins  
-- Reduced maintenance by 40% and improved uptime to 99.9%
+> **Tech:** Kubernetes, PostgreSQL, Jenkins, Nginx, CI/CD, SSL/TLS  
+- Deployed secure chat platform for 100+ users with 99.9% uptime  
+- Integrated CI/CD and automated cert renewals with Certbot  
+- Delivered hardened configs and strict access controls
+
+---
 
 ### 🎓 **Student Information System**
-- Real-time seat tracking, role-based access, and secure enrollment workflows  
-- Scaled to support 1,000+ concurrent users with optimized queries  
-- Emphasis on RBAC and performance-driven backend design
+> **Tech:** Node.js, PostgreSQL, RBAC, Performance Tuning  
+- Real-time seat tracking and access control  
+- Scaled for 1,000+ users with query optimization  
+- Seamless UI/UX for course registration management
 
-### ☁️ **Infrastructure as Code (IaC) – AWS Automation**
-- Provisioned AWS infrastructure using Terraform with IAM, VPC, and EKS  
-- Deployed 5+ microservices with secure API gateways and TLS ingress  
-- Automated via GitHub Actions + CircleCI; reduced deployment time by 40%
+---
+
+### ☁️ **AWS Cloud Automation with Terraform**
+> **Tech:** Terraform, AWS, GitHub Actions, Kubernetes  
+- Provisioned 15+ resources via Terraform  
+- Deployed microservices to EKS with RBAC and secure APIs  
+- Reduced deployment time by 40% through automation
 
 ---
 
@@ -62,13 +86,10 @@ From deploying microservices on Kubernetes to automating infrastructure with Ter
 
 ---
 
-## 🤝 Let’s Connect
+## 🔗 Let’s Connect
 
-Whether you're working on cloud apps, DevOps pipelines, or backend tools, I’d love to collaborate, learn, and share ideas.
-
-📬 [parth.gohil.work@gmail.com](mailto:parth.gohil.work@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/parth--gohil/)
+Let’s build, ship, and scale together!  
+📬 [Email me](mailto:parth.gohil.work@gmail.com) • [Connect on LinkedIn](https://www.linkedin.com/in/parth--gohil/)
 
 ---
-
-_Thanks for stopping by!_ 🌟
+_Thanks for stopping by!_ ✨
