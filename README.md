@@ -1,27 +1,36 @@
-<h2 align="center">Hi there</h2>
+<h2 align="center">Hi there 👋</h2>
 <h1 align="center">I'm Parth Gohil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Cloud+%7C+DevOps+%7C+Scalable-Systems+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Cloud+%7C+DevOps+%7C+Scalable-Systems+Developer;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 </p>
+
+
 
 <p align="center">
   <a href="mailto:parth.gohil.work@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/parth--gohil/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/parth2103"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **full-stack software engineer** with a strong foundation in backend systems, frontend development, and cloud infrastructure.  
-I love building applications that are not only functional and performant but also scalable and secure.
+> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
-🧠 Currently exploring:  
+I'm a **full-stack software engineer** with a passion for turning coffee into code ☕ and ideas into reality. I love building applications that are not only functional and performant but also scalable and secure.
+
+🚀 **What drives me:** Solving complex problems, learning new technologies, and creating software that makes a difference.
+
+🧠 **Currently exploring:**  
 - 🔄 DevOps pipelines & Infrastructure as Code  
 - ⚙️ Full-stack development with React + Node.js  
 - ☁️ AWS, Kubernetes, and Terraform  
 - 🔒 Secure application development practices
+- 🤖 AI/ML integration in web applications
+
+💡 **Fun fact:** I once debugged a production issue at 3 AM while my cat supervised from my keyboard. The bug was in the code, not the cat's contribution! 😸
 
 ---
 
@@ -50,6 +59,13 @@ I love building applications that are not only functional and performant but als
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
+---
+
+## 🚀 Currently Working On
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Building+scalable+microservices;Learning+AI%2FML+integration;Contributing+to+open+source" alt="Currently Working On" />
+</p>
 
 ---
 
@@ -60,6 +76,7 @@ I love building applications that are not only functional and performant but als
 - Deployed secure chat platform for 100+ users with 99.9% uptime  
 - Integrated CI/CD and automated cert renewals with Certbot  
 - Delivered hardened configs and strict access controls
+- 🎯 **Impact:** Reduced deployment time by 60% and improved security posture
 
 ---
 
@@ -68,6 +85,7 @@ I love building applications that are not only functional and performant but als
 - Real-time seat tracking and access control  
 - Scaled for 1,000+ users with query optimization  
 - Seamless UI/UX for course registration management
+- 🎯 **Impact:** Improved user experience and system reliability
 
 ---
 
@@ -76,24 +94,45 @@ I love building applications that are not only functional and performant but als
 - Provisioned 15+ resources via Terraform  
 - Deployed microservices to EKS with RBAC and secure APIs  
 - Reduced deployment time by 40% through automation
+- 🎯 **Impact:** Streamlined infrastructure management and reduced costs
 
 ---
 
-<!-- this is commented out, put it once there is enough stats
-## 📊 GitHub Stats
+
+
+---
+
+## 🎯 What I'm Looking For
+
+- **Collaborative projects** that challenge and grow my skills
+- **Open source contributions** to meaningful projects
+- **Innovative teams** working on cutting-edge technology
+- **Mentorship opportunities** to help others grow
+
+---
+
+## 🔗 Let's Connect
+
+Let's build, ship, and scale together! 🚀
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth2103&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth2103&theme=default" />
-</p> 
--->
+  📬 <a href="mailto:parth.gohil.work@gmail.com">Email me</a> • 
+  💼 <a href="https://www.linkedin.com/in/parth--gohil/">Connect on LinkedIn</a> • 
+  🐙 <a href="https://github.com/parth2103">Follow on GitHub</a>
+</p>
 
 ---
 
-## 🔗 Let’s Connect
-
-Let’s build, ship, and scale together!  
-📬 [Email me](mailto:parth.gohil.work@gmail.com) • [Connect on LinkedIn](https://www.linkedin.com/in/parth--gohil/)
+<div align="center">
+  
+  ![Snake animation](https://github.com/parth2103/parth2103/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 ---
-_Thanks for stopping by!_ ✨
+
+<div align="center">
+  
+  _Thanks for stopping by!_ ✨
+  
+</div>
