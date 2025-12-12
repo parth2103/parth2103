@@ -131,11 +131,3 @@ A decentralized collectible zombie game using smart contracts.
 - Hardening cybersecurity models with adversarial testing  
 
 ---
-
-## 📊 GitHub Stats (optional — uncomment in your README)
-
-```md
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth2103&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth2103&theme=default" />
-</p>
